@@ -1,0 +1,802 @@
+[
+    {
+        "French": "Prudence",
+        "Vietnamese": "Thận trọng",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "En sous",
+        "Vietnamese": "Prudence",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Parmi",
+        "Vietnamese": "Trong (among)",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Spatiale",
+        "Vietnamese": "Không gian",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un monastère",
+        "Vietnamese": "Một tu viện",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "Un monastère en haut d’une montagne "
+    },
+    {
+        "French": "Au milieu",
+        "Vietnamese": "Ở giữa",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": "Sur un bateau au milieu de l’ocean"
+    },
+    {
+        "French": "L'ocean",
+        "Vietnamese": "Đại dương",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "Sur un bateau au milieu de l’ocean"
+    },
+    {
+        "French": "Une grotte",
+        "Vietnamese": "Một hang động",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Lancer",
+        "Vietnamese": "Ném",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "La banquise",
+        "Vietnamese": "Bờ sông",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un tremblement",
+        "Vietnamese": "Sự rung chuyển",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un atelier",
+        "Vietnamese": "Workshop",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Vendre",
+        "Vietnamese": "Bán",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Devoir",
+        "Vietnamese": "Phải",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Sirène",
+        "Vietnamese": "Nàng tiên cá( còi báo động)",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Dénoncer",
+        "Vietnamese": "Lên án",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Malhonnête",
+        "Vietnamese": "Không trung thực",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Cambrioler",
+        "Vietnamese": "Ăn cướp (buglary)",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "La dos",
+        "Vietnamese": "Lưng",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un cauchemar.",
+        "Vietnamese": "Một cơn ác mộng",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Echec",
+        "Vietnamese": "Sự thất bại",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Angine",
+        "Vietnamese": "Đau thắt ngực",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Menacer",
+        "Vietnamese": "Đe doạ",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Une bijouterie",
+        "Vietnamese": "Cửa hàng trang sức",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Écraser",
+        "Vietnamese": "Nghiền nát",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Se reconvertir",
+        "Vietnamese": "Đào tạo lại",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Bouger",
+        "Vietnamese": "Chuyển động ( moving)",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Le commissaire",
+        "Vietnamese": "Uỷ viên",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Livrer",
+        "Vietnamese": "Giải thoát",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Travailler",
+        "Vietnamese": "Làm việc",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "S'étonner",
+        "Vietnamese": "Ngạc nhiên",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Déranger",
+        "Vietnamese": "Làm phiền",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Le jury",
+        "Vietnamese": "Ban giám khảo",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Encadré",
+        "Vietnamese": "Đóng hộp",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un déménageur",
+        "Vietnamese": "Người vận chuyển ( khuân vác)",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un agriculteur/ une agricultrice",
+        "Vietnamese": "Người nông dân",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Accompagner",
+        "Vietnamese": "Đồng hành",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Gêner",
+        "Vietnamese": "Làm phiền",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Proposer qqc à qqn",
+        "Vietnamese": "",
+        "Tags": [
+            "Cụm"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Guichet",
+        "Vietnamese": "Quầy",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Croiser",
+        "Vietnamese": "Đi qua",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Presque",
+        "Vietnamese": "Gần như (almost)",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Mettre d’argent",
+        "Vietnamese": "Để dành tiền",
+        "Tags": [
+            "Cụm"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "L'argent de l'essence",
+        "Vietnamese": "Tiền xăng",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un(e) journaliste",
+        "Vietnamese": "Nhà báo",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Emporter",
+        "Vietnamese": "Lấy đi (take away)",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Enrichir",
+        "Vietnamese": "Làm giàu",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Venir",
+        "Vietnamese": "Đến",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Être",
+        "Vietnamese": "Là",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Moquettes",
+        "Vietnamese": "Cái thảm",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "J'aimerais une moquette"
+    },
+    {
+        "French": "Obtenir",
+        "Vietnamese": "Lấy (get)",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Caviste",
+        "Vietnamese": "Người buôn bán rượu",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "Vous êtes caviste ?"
+    },
+    {
+        "French": "Un avocat/ une avocat(e)",
+        "Vietnamese": "Luật sư",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Une étoile",
+        "Vietnamese": "Một vì sao",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Une émission",
+        "Vietnamese": "Một chương trình",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Le contenu",
+        "Vietnamese": "Nội dung",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Congés",
+        "Vietnamese": "Kỳ nghỉ",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Imperméable",
+        "Vietnamese": "Áo mưa",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un envie",
+        "Vietnamese": "Một mong muốn",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "J’ai envie de cette motor"
+    },
+    {
+        "French": "Interroger",
+        "Vietnamese": "Hỏi",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un renseignement",
+        "Vietnamese": "Thông tin",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Trahir",
+        "Vietnamese": "Phản bội",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "La période de réflexion",
+        "Vietnamese": "Thời gian suy ngẫm",
+        "Tags": [
+            "Cụm"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Abomination",
+        "Vietnamese": "Sự ghê tởm",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Le dépaysement",
+        "Vietnamese": "Sự thay đổi cảnh quan",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Attendre",
+        "Vietnamese": "Nghe thấy",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Faire au chômage",
+        "Vietnamese": "Thất nghiệp",
+        "Tags": [
+            "Cụm"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Parler",
+        "Vietnamese": "Nói",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Bizarres",
+        "Vietnamese": "Kỳ quặc",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": "Un client bizarres"
+    },
+    {
+        "French": "Vieux/vieille",
+        "Vietnamese": "Già",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Descendre",
+        "Vietnamese": "Đi xuống",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Privilégier",
+        "Vietnamese": "Đặc quyền",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Dégât",
+        "Vietnamese": "Hư hại",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Faire un périple",
+        "Vietnamese": "Tham gia một cuộc chuyến mạo hiểm",
+        "Tags": [
+            "Cụm"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Commettre",
+        "Vietnamese": "Làm (commit)",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Lutter",
+        "Vietnamese": "Để đấu tranh chống lại",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Le coup de coeur",
+        "Vietnamese": "Được yêu thích",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Valoir",
+        "Vietnamese": "Có giá trị",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Une envie",
+        "Vietnamese": "Mong muốn",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Imprimante",
+        "Vietnamese": "Máy in",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Éteindre",
+        "Vietnamese": "Tắt (turn off)",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "La circonstance",
+        "Vietnamese": "Tình huống",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Trouver",
+        "Vietnamese": "Tìm thấy",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Une reine",
+        "Vietnamese": "Hoàng hậu",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un macon/une macone",
+        "Vietnamese": "Thợ xây",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Le ventre",
+        "Vietnamese": "Bụng",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Réflexion",
+        "Vietnamese": "Sự phản xạ",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Durant le temps",
+        "Vietnamese": "Trong suốt khoảng thời gian",
+        "Tags": [
+            "Cụm"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Immense",
+        "Vietnamese": "Bao la",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Ressembler",
+        "Vietnamese": "Trông giống như",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Une grille",
+        "Vietnamese": "Tấm lưới",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "La gorge",
+        "Vietnamese": "Cổ họng",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Une bombe",
+        "Vietnamese": "Bom",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Opter pour",
+        "Vietnamese": "Để lựa chọn",
+        "Tags": [
+            "Cụm"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Convaincre",
+        "Vietnamese": "Thuyết phục",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Le duvet",
+        "Vietnamese": "Cái chăn",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "J'ai préparé deux duvets pour le voyage en montagne"
+    },
+    {
+        "French": "Commencer",
+        "Vietnamese": "Bắt đầu ( to start)",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Un poste",
+        "Vietnamese": "Chức vụ",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Affolés",
+        "Vietnamese": "Hoảng loạn",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    },
+    {
+        "French": "Blessé",
+        "Vietnamese": "Bị thương ",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": ""
+    }
+]
