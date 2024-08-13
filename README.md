@@ -1,4 +1,12 @@
 # LearningFrenchApp
-Simple startup with computer learning french app to review vocabulary work with Notion API
-The main program is in folder App_learning call app1.py, you can put it into exe of vbs to run
-The idea of this app is when your open your laptop, the program while run then after you finish the question you can use your computer
+
+**Simple startup with a computer-based French learning app to review vocabulary using the Notion API.**
+
+The main program is in the `App_learning` folder, named `app1.py`. You can convert it to an executable (exe) or a Visual Basic Script (vbs) to run it.
+
+The idea of this app is that when you open your laptop, the program will run automatically. After you finish the questions, you can use your computer.
+
+For the vocabulary you learn, simply note it in Notion as shown in the picture.
+
+![image](https://github.com/user-attachments/assets/146840cf-8b14-466f-848d-ee703fd48719)
+
