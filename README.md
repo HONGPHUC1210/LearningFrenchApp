@@ -10,3 +10,4 @@ For the vocabulary you learn, simply note it in Notion as shown in the picture.
 
 ![image](https://github.com/user-attachments/assets/146840cf-8b14-466f-848d-ee703fd48719)
 
+![image](https://github.com/user-attachments/assets/Screenshoot.png)
