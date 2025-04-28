@@ -137,6 +137,8 @@ class NotionManage:
 
         # Chọn những từ có `Number` thấp nhất
         def select_min_number_words(word_list, num_words):
+            if not word_list:
+                return []  # Nếu danh sách rỗng, trả về danh sách rỗng
             min_number = word_list[0]['Number']
             min_number_words = [word for word in word_list if word['Number'] == min_number]
             return random.sample(min_number_words, min(num_words, len(min_number_words)))
@@ -151,3 +153,4 @@ class NotionManage:
         random.shuffle(selected_words)
         return selected_words
 
+    

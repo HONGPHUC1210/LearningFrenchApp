@@ -5,6 +5,7 @@ from PIL import Image, ImageTk,ImageEnhance
 from tkinter import messagebox
 import asyncio
 import os
+import re
 from dotenv import load_dotenv
 from notion_manage_app import NotionManage  # Import từ module notion_module
 class LanguageLearningApp:
@@ -27,7 +28,7 @@ class LanguageLearningApp:
         # Phân tích dữ liệu thô thành dữ liệu có cấu trúc
         parsed_data = await self.notion_manager.parse_notion_data(raw_data)
         # Chọn từ ngẫu nhiên để tạo câu hỏi
-        questions = await self.notion_manager.select_random_words(parsed_data, 3, 3, 3, 1)
+        questions = await self.notion_manager.select_random_words(parsed_data, 9,10,6,5)
         return questions
     
     def create_interface(self):
@@ -39,13 +40,13 @@ class LanguageLearningApp:
         position_top = int(screen_height / 2 - window_height / 2)
         position_right = int(screen_width / 2 - window_width / 2)
         self.root.geometry(f'{window_width}x{window_height}+{position_right}+{position_top}')
-        self.root.iconbitmap("E:/Code/Project_Learning_French_App/App_learning/assets/flag.ico")
+        self.root.iconbitmap("D:/Code/Project_Learning_French_App/App_learning/assets/flag.ico")
 
         # Tạo canvas và hình nền
         canvas = Canvas(self.root, width=window_width, height=window_height, bd=0, relief='ridge')
         canvas.pack(fill="both", expand=True)
 
-        image_bg_path = "E:/Code/Project_Learning_French_App/App_learning/assets/bg.png"
+        image_bg_path = "D:/Code/Project_Learning_French_App/App_learning/assets/bg.png"
         image_bg = Image.open(image_bg_path).convert("RGB")
         image_bg = image_bg.resize((window_width, window_height), Image.LANCZOS)
         enhancer = ImageEnhance.Brightness(image_bg)
@@ -150,12 +151,26 @@ class LanguageLearningApp:
                 self.question_label.configure(text=f"What does '{word['Vietnamese']}' mean?")
         else:
             self.ask_for_examples()
+
+
     def submit_answer(self):
         word = self.words[self.current_word_index]
         correct_answer = word['Vietnamese'] if self.current_word_index % 2 == 0 else word['French']
         user_answer = self.answer_entry.get()
 
         # Kiểm tra nếu `Number` là rỗng thì hiểu là 0
+
+        def normalize_answer(answer):
+            # Chuyển thành chữ thường
+            answer = answer.lower()
+            # Chuyển dấu nháy cong ‘ ’ thành dấu nháy thẳng '
+            answer = re.sub(r"[‘’]", "'", answer)
+            # Xoá khoảng trắng ở đầu và cuối
+            answer = answer.strip()
+            return answer
+        
+        user_answer = normalize_answer(user_answer)
+        correct_answer = normalize_answer(correct_answer)
         current_number = word.get("Number", 0) or 0
 
         # Trường hợp người dùng trả lời đúng ngay lần đầu tiên
@@ -178,6 +193,8 @@ class LanguageLearningApp:
                     messagebox.showinfo("Incorrect", f"The correct answer is '{correct_answer}'")
                 else:
                     messagebox.showinfo("Incorrect", "Incorrect answer. Try again!")
+
+
     def ask_for_examples(self):
         result = messagebox.askyesno("Examples", "Would you like to provide examples for the words?")
         if result:

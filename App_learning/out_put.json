@@ -1,0 +1,142 @@
+[
+    {
+        "page_id": "cff0a6d3-b1cc-4d7f-8458-fd48e73c5598",
+        "French": "Mondial",
+        "Vietnamese": "T\u00ednh to\u00e0n c\u1ea7u",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": "Global",
+        "Number": 0
+    },
+    {
+        "page_id": "16d6e057-ee66-43ac-ada4-c57c0968d4d2",
+        "French": "Discret",
+        "Vietnamese": "K\u00edn \u0111\u00e1o",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "afd270a9-e1c3-4116-a6c7-225751ed65d7",
+        "French": "Se baisser",
+        "Vietnamese": "C\u00fai xu\u1ed1ng",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "c55c7be6-5616-4141-b3ca-b9874d0b5af8",
+        "French": "Une honte",
+        "Vietnamese": "Th\u1eadt x\u1ea5u h\u1ed5",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "C\u2019est une honte",
+        "Number": 0
+    },
+    {
+        "page_id": "a2012d8a-4bdb-460e-86aa-1e5ba04e5f71",
+        "French": "Une op\u00e9ration",
+        "Vietnamese": "M\u1ed9t ho\u1ea1t \u0111\u1ed9ng",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "e7d4074d-f353-43c9-bd20-305081b93ffa",
+        "French": "La csg (contribution sociale g\u00e9n\u00e9ralis\u00e9e)",
+        "Vietnamese": "Ph\u00ed \u0111\u00f3ng g\u00f3p x\u00e3 h\u1ed9i",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "77da24bc-cb8c-4819-a2f7-8b145bd49f46",
+        "French": "Souple",
+        "Vietnamese": "Linh ho\u1ea1t (flexible)",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "02e49f80-0ba8-465b-8693-82d1bc3d3ec1",
+        "French": "Au milieu",
+        "Vietnamese": "\u1ede gi\u1eefa",
+        "Tags": [
+            "Adj/Adv"
+        ],
+        "Exemple": "In the middle",
+        "Number": 0
+    },
+    {
+        "page_id": "ced6411a-5be9-4a92-b51e-4e9f50c3b37f",
+        "French": "Recevoir",
+        "Vietnamese": "Nh\u1eadn \u0111\u01b0\u1ee3c",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "3dfc92eb-b85d-4503-a985-c351decaa5c6",
+        "French": "Une courbature",
+        "Vietnamese": "C\u01a1n \u0111au c\u01a1",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "8ccbb896-3849-41a7-a756-3416ecfb0545",
+        "French": "Se d\u00e9rouler",
+        "Vietnamese": "Di\u1ec5n ra",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "c7469041-efc0-4490-add9-e3693cdcd7a1",
+        "French": "Accueillir",
+        "Vietnamese": "Ch\u00e0o \u0111\u00f3n",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": "",
+        "Number": 0
+    },
+    {
+        "page_id": "c64c388c-cd9f-4928-a201-d720739e7889",
+        "French": "Emmener",
+        "Vietnamese": "\u0110\u01b0a \u0111i",
+        "Tags": [
+            "Verb"
+        ],
+        "Exemple": "J'emm\u00e8ne mon fils \u00e0 l'\u00e9cole",
+        "Number": 0
+    },
+    {
+        "page_id": "243a6891-562a-4dfb-9324-1403826b85fc",
+        "French": "un pas",
+        "Vietnamese": "B\u01b0\u1edbc \u0111i",
+        "Tags": [
+            "Nouns"
+        ],
+        "Exemple": "",
+        "Number": 0
+    }
+]
